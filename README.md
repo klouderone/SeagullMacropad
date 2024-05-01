@@ -17,6 +17,21 @@ This build is a medium-hard build. It is recommended that you use solder paste f
 
 **PLEASE MAKE SURE TO READ THE WHOLE GUIDE BEFORE COMMENCING BUILD.**
 
+**Parts Needed:**
+- 1x Seagull Numpad PCB
+- 16x Kailh Choc Hot Swap Sockets
+- 16x Kailh MX Hot Swap Sockets
+- 2x B3U-1000P Tactile Button (extra for mistake)
+- 24x Mill-Max Pins
+- 2x 12 Pin Mill-Max Sockets
+- 20x 1N4148 SOD-123 Diodes (extra for mistakes)
+- 1x EC11 Encoder
+- 1x 3 Pin Toggle Switch (MSK-12C02 & PCM12SMTR)
+- 16x Choc or MX switches
+- 16x Choc or MX keycaps
+- 1x Microcontroller (Elite C/Pro Micro/Nice!Nano V2)
+- 1x OLED Display with matching header (optional)
+
 ### STEP ZERO: Flash Microcontroller with Known Firmware
 
 First thing to do is to flash the microcontroller with the given firmware. This is to ensure that the Microcontroller works properly, and if it doesn't, is returnable/refundable to the vendor you bought it from. If you are using QMK, download the QMK toolbox and the VIAL firmware for your microcontroller, .uf2 for Elite-C RP2040 controllers, or .hex for Pro-Micro ATMega32U4 controllers. A google will be able to show you how to flash for your microcontroller. 
