@@ -2,7 +2,7 @@
 
 ![Built Choc Seagull Macropad 1000px](https://github.com/klouderone/SeagullMacropad/assets/136342173/cf244d48-6d0f-45fd-a525-8af933e59229)
 
-The Seagull Macropad is based off the Rhino Pad, designed with the intent of being a wireless Choc switch numpad. The Macropad features an aesthetic but functional diode layout, an encoder, and pads for a battery and battery switch for wireless support.
+The Seagull Macropad is based off the Rhino Pad, that supports both MX and Choc switches. The Macropad features an aesthetic but functional diode layout, an encoder, and pads for a battery and battery switch for wireless support.
 
 Features:
 
