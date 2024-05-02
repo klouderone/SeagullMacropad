@@ -73,3 +73,7 @@ On the PCB, the display pins are noted of their output. If you are using an OLED
 Make sure the Encoder is flat up against the PCB when soldering. First solder the signal pins (as they require less heat than the locking pins) to hold the encoder in place, and then solder the locking pins. 
 
 ### STEP EIGHT: 
+
+Put your switches in and keycaps on and enjoy your new Macropad!
+
+
