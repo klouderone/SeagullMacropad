@@ -39,42 +39,54 @@ First thing to do is to flash the microcontroller with the given firmware. This 
 
 ### STEP ONE: Soldering the Reset Button
 
-Soldering the reset button is the most difficult due to its small contacts, though it is not required for the board to work.If you do not want to solder the reset button, you just need to bridge the pads on the back of the board with tweezers to put it into bootloader mode.
+Soldering the reset button is the most difficult due to its small contacts, though it is not required for the board to work. If you do not want to solder the reset button, you just need to bridge the pads on the back of the board with tweezers to put it into bootloader mode. Carefully and steadily use tweezers to correctly align the button, heat up the tinned pad and place the button onto the pad, remove the heat and let the solder solidify. Then solder the other pad to secure, and possibly add a touch more solder on the first pad.
 
-### STEP TWO: Soldering the diodes 
+### STEP TWO: Soldering the Battery Switch (wireless version only)
+
+Soldering the battery switch is a little more complex than the reset button. I reccommend solder paste for this. If you do not use solder paste, tin one pad first. Place the switch onto the pad and hold it steady using tweezers, heat it up, and push it into the solder and let it solidify. Carefully solder all other pads to the PCB.
+
+### STEP THREE: Soldering the diodes 
 
 There are two ways to do this, both require tweezers;
 
 Option One: using solder paste and a heat gun (hairdryer may work)
 
-Apply solder paste into all the diode pads. Use your tweezers to carefully place the diodes in the correct orientation on top of the pads. Gently apply heat using a heat gun to the top of the PCB (or if using a 
+Apply solder paste into all the diode pads. Use your tweezers to carefully place the diodes in the correct orientation on top of the pads. Gently apply heat using a heat gun to the top of the PCB, and watch the diodes pull themselves into place.
 
 Option Two: using, a clean soldering iron, a steady hand, and patience.
 
 Tin the top pads of all the diodes. Carefully and steadily use tweezers to correctly align the diodes, heat up the tinned pad and place the diode onto the pad, remove the heat and let the solder solidify. Then solder the other pad to secure, and possibly add a touch more solder on the first pad. Repeat process going from left to right, top row to bottom row. See diagram below for recommended setup for this.
 
-### STEP THREE: Solder Hotswap Sockets
+### STEP FOUR: Solder Hotswap Sockets
 
 Tin one of the Hotswap pads. Place your hotswap socket into the holes, and heat up the tinned pad side while adding solder. Make sure to touch the pad or the contact of the hotswap socket that is on the pad. After a good connection, remove heat and solder other side. Repeat for all. I recommend pushing the hotswap socket in while soldering to get a good solder joint.
 
-### STEP FOUR: Soldering Mill-Max sockets to PCB
+### STEP FIVE: Soldering Mill-Max sockets to PCB
 
 To do this correctly, you want to put the sockets into the PCB holes, and also put the Microcontroller on top to align them perpendicular to the PCB. Use putty or you finger to keep the sockets aligned and solder them into place.
 
-### STEP FIVE: Soldering Microcontroller to the Mill-Max Pins
+### STEP SIX: Soldering Microcontroller to the Mill-Max Pins
 
 Place the microcontroller onto the sockets, aligning the pins with the through-holes, and carefully solder. Make sure you do not leave the iron on the pins/through-holes for too long, as you risk burning the traces of the microcontoller. Be sure to not use too much solder, as if you use too much it can flow down through the hole and join the socket and microcontroller. It is better to do too little and go back after later. Carefully remove the microcontroller to confirm that the joints are good. When removing, pull uniformly from both the USB side and the bottom side. Failure to do this can result in bending the Mill-Max pins. I have found using a switch puller to be handy doing this.
 
-### STEP SIX: Soldering Display Pins
+### STEP SEVEN: Soldering Display Pins
 
 On the PCB, the display pins are noted of their output. If you are using an OLED display, disregard the CS pin (this is used for e-paper displays like the nice!view). If you are using Mill-Max sockets, you want a PH5 (plastic height 5) box header.  You can then solder the box header. 
 
-### STEP SEVEN: Soldering the Encoder
+### STEP EIGHT: Soldering the Encoder
 
 Make sure the Encoder is flat up against the PCB when soldering. First solder the signal pins (as they require less heat than the locking pins) to hold the encoder in place, and then solder the locking pins. 
 
-### STEP EIGHT: 
+### STEP NINE: Soldering the Encode (wireless version only)
 
-Put your switches in and keycaps on and enjoy your new Macropad!
+With the microcontroller out of the Mill-Max sockets, carefully solder the positive lead of the battery to the positive pad, and the negative lead to the negative pad. DO NOT LET THESE TWO LEADS TOUCH! 
+
+### STEP TEN: 
+
+Reinsert you microcontroller, install your switches and keycaps, and enjoy your new Macropad!
+
+## Firmware
+
+
 
 
