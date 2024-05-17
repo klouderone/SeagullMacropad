@@ -51,7 +51,7 @@ There are two ways to do this, both require tweezers;
 
 Option One: using solder paste and a heat gun (hairdryer may work)
 
-Apply solder paste into all the diode pads. Use your tweezers to carefully place the diodes in the correct orientation on top of the pads. Gently apply heat using a heat gun to the top of the PCB, and watch the diodes pull themselves into place.
+Apply solder paste into all the diode pads. Use your tweezers to carefully place the diodes in the correct orientation on top of the pads. Gently apply heat using a hot plate or a heat gun, and watch the diodes pull themselves into place.
 
 Option Two: using, a clean soldering iron, a steady hand, and patience.
 
