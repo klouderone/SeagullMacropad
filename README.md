@@ -1,4 +1,4 @@
-# Seagull Macropad
+# The Seagull Macropad by Kea Workshop
 
 ![Built Choc Seagull Macropad 1000px](https://github.com/klouderone/SeagullMacropad/assets/136342173/cf244d48-6d0f-45fd-a525-8af933e59229)
 
