@@ -55,7 +55,7 @@ Apply solder paste into all the diode pads. Use your tweezers to carefully place
 
 Option Two: using, a clean soldering iron, a steady hand, and patience.
 
-Tin the top pads of all the diodes. Carefully and steadily use tweezers to correctly align the diodes, heat up the tinned pad and place the diode onto the pad, remove the heat and let the solder solidify. Then solder the other pad to secure, and possibly add a touch more solder on the first pad. Repeat process going from left to right, top row to bottom row. See diagram below for recommended setup for this.
+Tin the top pad of all the diode pads. Carefully and steadily use tweezers hold and correctly align the diode, heat up the tinned pad, and place the diode onto the pad. Then, solder the other pad to secure. Repeat process going from left to right, top row to bottom row. See diagram below for recommended setup for this.
 
 ![Soldering Diagram](https://github.com/klouderone/SeagullMacropad/assets/136342173/fc0598dd-25a5-465e-be33-8dc0a052b6b9)
 
