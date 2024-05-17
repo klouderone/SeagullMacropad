@@ -57,6 +57,8 @@ Option Two: using, a clean soldering iron, a steady hand, and patience.
 
 Tin the top pads of all the diodes. Carefully and steadily use tweezers to correctly align the diodes, heat up the tinned pad and place the diode onto the pad, remove the heat and let the solder solidify. Then solder the other pad to secure, and possibly add a touch more solder on the first pad. Repeat process going from left to right, top row to bottom row. See diagram below for recommended setup for this.
 
+![Soldering Diagram](https://github.com/klouderone/SeagullMacropad/assets/136342173/fc0598dd-25a5-465e-be33-8dc0a052b6b9)
+
 ### STEP FOUR: Solder Hotswap Sockets
 
 Tin one of the Hotswap pads. Place your hotswap socket into the holes, and heat up the tinned pad side while adding solder. Make sure to touch the pad or the contact of the hotswap socket that is on the pad. After a good connection, remove heat and solder other side. Repeat for all. I recommend pushing the hotswap socket in while soldering to get a good solder joint.
