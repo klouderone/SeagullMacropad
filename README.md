@@ -85,14 +85,11 @@ With the microcontroller out of the Mill-Max sockets, carefully solder the posit
 
 ### STEP TEN: 
 
-Reinsert you microcontroller, install your switches and keycaps, and enjoy your new Macropad!
+Reinsert your microcontroller, install your switches and keycaps, and enjoy your new Macropad!
 
 ## Firmware
 
-V2 Known Issues: 
-- Unable to change function of push button encoder on VIAL as the button is not in a matrix, and when designing I did not know that you cannot map a direct button. Changing this must be done in the QMK code. V2 Code to modify can be found above. Default Keystroke for this is KC_MUTE. (FIXED IN V3)
-
-V3 Known Issues: 
+Known Issues: 
 - NA
 
 
