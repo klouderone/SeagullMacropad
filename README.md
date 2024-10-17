@@ -92,5 +92,10 @@ Reinsert your microcontroller, install your switches and keycaps, and enjoy your
 Known Issues: 
 - NA
 
+## Sponsorship - ![PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx)
+I ordered my PCB's off PCBWay.
+I am very satisfied with the quality of the boards I recieved, and they came with no visible imperfections and all worked as intended!
+The service they provide is great, and they give you lots of different settings to chose from depending on what you need your PCB to be
+Thanks again to PCBway for sponsoring this project! I am very pleased to have this project sponsored by them!
 
 
