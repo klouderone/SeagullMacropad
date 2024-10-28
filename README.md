@@ -10,7 +10,7 @@ Features:
 - Pro Micro / Elite C footprint
 - Supports MX and Choc Hotswap Switches
 - Supports wireless Microcontrollers; built in battery pads and battery switch pads
-- Magnetic Sandwich Case (8x 3mm Diameter x 2mm Height)
+- Magnetic Sandwich Case (16x 3mm Diameter x 2mm Height)
 
 ## Build Guide
 
